@@ -2,6 +2,7 @@
 
 Link:
 213070003_213070014_1.ipynb: https://drive.google.com/file/d/1cCtzcB9jwYNDwYnHKd9pHXCLARkmjsT7/view?usp=sharing
+
 **Resume points:**
 
 Study and Experiments on Linear Regression Models | Machine Learning
